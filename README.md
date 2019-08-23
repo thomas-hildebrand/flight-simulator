@@ -6,12 +6,12 @@ The project is a basic flight simulator that includes a WWII fighter plane model
 The project is written using Visual Studio, C++, OpenGL, and GLSL.
 
 My personal Contributions include:
-  Building.h
-  Building.cpp
-  City.h
-  City.cpp
-  shader.frag
-  shader.vert
+  Building.h,
+  Building.cpp,
+  City.h,
+  City.cpp,
+  shader.frag,
+  shader.vert,
   Extensive work with Window.h and Window.cpp
   
 My first main contribution is the procedurally generated buildings using shape grammars in City.cpp which provide a set of rules for the program when randomly constructing building objects.
