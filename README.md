@@ -10,8 +10,6 @@ My personal Contributions include:
   Building.cpp,
   City.h,
   City.cpp,
-  shader.frag,
-  shader.vert,
   Extensive work with Window.h and Window.cpp
   
 My first main contribution is the procedurally generated buildings using shape grammars in City.cpp which provide a set of rules for the program when randomly constructing building objects.
